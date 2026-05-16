@@ -1,4 +1,4 @@
-# 
+# high-frequency opensea sniper bot | floor-price-tracking + bundle-transactions offers the most advanced opensea sniper bot, with floor-price-tracking and bundle-transactions.
 
 
 
